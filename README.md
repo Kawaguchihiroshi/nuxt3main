@@ -150,7 +150,7 @@ pnpm add --save-dev --save-exact prettier
 pnpm exec prettier . --write
 ```
 ###### vscordでファイル保存時にフォーマットを書ける方法
-
+https://ralacode.com/blog/post/vscode-prettier/
 <br><br><br><br>
 ## 【注意事項】
 VSCodeは常に最新にしておくこと
